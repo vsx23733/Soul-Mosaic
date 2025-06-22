@@ -37,4 +37,4 @@ Soul Mosaic is currently in **released** and was developed entirely using Unity.
 
 ---
 
-🎮 **Play the demo on Itch.io** 👉 [Soul Mosaic](https://epsilon-game-studio.itch.io/soul-mosaic))
+🎮 **Play the demo on Itch.io** 👉 [Soul Mosaic](https://epsilon-game-studio.itch.io/soul-mosaic)
