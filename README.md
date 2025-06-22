@@ -25,7 +25,7 @@
 
 ## 🛠️ Development Status
 
-Soul Mosaic is currently in **active development** using Unity.
+Soul Mosaic is currently in **released** and was developed entirely using Unity.
 
 ### Milestones:
 - ✅ Core movement & combat
