@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 Game Features
+## 🎮 Game Core
 
 - **🧩 Emotional Biomes**  
   Five distinct realms themed around **Rage**, **Clarity**, **Terror**, **Ecstasy**, and **Grief**, each with unique environments, enemies, and mechanics.
@@ -34,6 +34,8 @@ Soul Mosaic is currently in **released** and was developed entirely using Unity.
 - ⏳ Biome content creation
 - ⏳ Final boss & endings
 - ⏳ Polish & performance optimization
+
+
 
 ---
 
