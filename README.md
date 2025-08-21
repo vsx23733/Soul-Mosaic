@@ -36,6 +36,8 @@ Soul Mosaic is currently in **released** and was developed entirely using Unity.
 - ⏳ Polish & performance optimization
 
 
+## 🎥 [Watch the trailer here](./trailer.mp4)
+
 
 ---
 
