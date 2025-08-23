@@ -45,4 +45,4 @@ https://github.com/vsx23733/Soul-Mosaic/blob/main/ssvid.net--Soul-Mosaic-Demo-La
 
 ---
 
-🎮 **Play the demo on Itch.io** 👉 [Soul Mosaic](https://epsilon-game-studio.itch.io/soul-mosaic)
+🎮 **Play the full game on Itch.io** 👉 [Soul Mosaic](https://epsilon-game-studio.itch.io/soul-mosaic)
